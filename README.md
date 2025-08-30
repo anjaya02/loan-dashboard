@@ -2,7 +2,15 @@
 
 A modern React-based loan dashboard application for managing borrower pipelines, viewing detailed borrower information, and tracking broker performance. This application demonstrates modern front-end development practices with a focus on user experience and responsive design.
 
-## 🚀 Features
+## �‍💻 Author
+
+**Anjaya Induwara**  
+📧 [anjayainduwara@gmail.com](mailto:anjayainduwara@gmail.com)  
+🔗 [github.com/anjaya02](https://github.com/anjaya02)
+
+_This project was developed as part of a frontend developer position assignment._
+
+## �🚀 Features
 
 - **Borrower Pipeline Management**: Tabbed interface for managing different stages of loan applications (New, In Review, Approved)
 - **Detailed Borrower View**: Comprehensive borrower information with AI explainability features and risk signals
@@ -185,47 +193,3 @@ addToast("Here's some information for you.", "info");
 - **Tablet**: Adaptive grid system
 - **Desktop**: Full 3-column layout
 - **Touch-friendly**: Optimized button sizes and spacing
-
-## 🚀 Deployment
-
-### Production Build
-
-```bash
-npm run build
-```
-
-This creates an optimized production build in the `build` folder. The build is minified and ready for deployment.
-
-### Deployment Options
-
-- **Static Hosting**: Deploy to Netlify, Vercel, or GitHub Pages
-- **Server**: Use nginx or Apache to serve the build folder
-- **CDN**: Deploy to AWS S3 + CloudFront for global distribution
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow existing code style and patterns
-- Add proper TypeScript types for new features
-- Include appropriate error handling
-- Write tests for new functionality
-- Update documentation as needed
-
-## 📝 License
-
-This project is private and proprietary.
-
-## 🙋‍♂️ Support
-
-For questions or support, please contact the development team.
-
----
-
-**Built with ❤️ using React, TypeScript, and modern web technologies**
