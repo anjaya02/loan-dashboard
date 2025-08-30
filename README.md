@@ -2,7 +2,7 @@
 
 A modern React-based loan dashboard application for managing borrower pipelines, viewing detailed borrower information, and tracking broker performance. This application demonstrates modern front-end development practices with a focus on user experience and responsive design.
 
-## �‍💻 Author
+## ‍💻 Author
 
 **Anjaya Induwara**  
 📧 [anjayainduwara@gmail.com](mailto:anjayainduwara@gmail.com)  
@@ -10,7 +10,7 @@ A modern React-based loan dashboard application for managing borrower pipelines,
 
 _This project was developed as part of a frontend developer position assignment._
 
-## �🚀 Features
+## 🚀 Features
 
 - **Borrower Pipeline Management**: Tabbed interface for managing different stages of loan applications (New, In Review, Approved)
 - **Detailed Borrower View**: Comprehensive borrower information with AI explainability features and risk signals
